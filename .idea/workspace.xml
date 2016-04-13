@@ -105,19 +105,19 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/app/activity/WeatherActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="128" column="5" selection-start-line="128" selection-start-column="5" selection-end-line="128" selection-end-column="5" />
+              <caret line="108" column="22" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="22" />
               <folding>
                 <element signature="docComment;class#WeatherActivity#0" expanded="false" />
                 <element signature="method#onCreate#0;class#WeatherActivity#0" expanded="true" />
                 <element signature="method#queryWeatherCode#0;class#WeatherActivity#0" expanded="true" />
                 <element signature="method#queryWeatherInfo#0;class#WeatherActivity#0" expanded="true" />
                 <element signature="method#queryFromServer#0;class#WeatherActivity#0" expanded="true" />
-                <element signature="method#onFinish#0;class#2841:4125" expanded="true" />
-                <element signature="e#3600#3785#0" expanded="true" />
-                <element signature="e#3784#3785#0" expanded="true" />
-                <element signature="method#onError#0;class#2841:4125" expanded="true" />
-                <element signature="e#3920#4099#0" expanded="true" />
-                <element signature="e#4098#4099#0" expanded="true" />
+                <element signature="method#onFinish#0;class#4091:5375" expanded="true" />
+                <element signature="e#4850#5035#0" expanded="true" />
+                <element signature="e#5034#5035#0" expanded="true" />
+                <element signature="method#onError#0;class#4091:5375" expanded="true" />
+                <element signature="e#5170#5349#0" expanded="true" />
+                <element signature="e#5348#5349#0" expanded="true" />
                 <element signature="method#showWeather#0;class#WeatherActivity#0" expanded="true" />
               </folding>
             </state>
@@ -127,26 +127,39 @@
       <file leaf-file-name="ChooseAreaActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/app/activity/ChooseAreaActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.5380531">
-              <caret line="83" column="61" selection-start-line="83" selection-start-column="61" selection-end-line="83" selection-end-column="61" />
+            <state vertical-scroll-proportion="6.2123895">
+              <caret line="254" column="29" selection-start-line="254" selection-start-column="29" selection-end-line="254" selection-end-column="29" />
               <folding>
                 <element signature="docComment;class#ChooseAreaActivity#0" expanded="false" />
-                <element signature="e#2629#3499#0" expanded="true" />
-                <element signature="e#3498#3499#0" expanded="true" />
+                <element signature="method#onCreate#0;class#ChooseAreaActivity#0" expanded="true" />
+                <element signature="e#2902#3772#0" expanded="true" />
+                <element signature="e#3771#3772#0" expanded="true" />
                 <element signature="method#queryProvinces#0;class#ChooseAreaActivity#0" expanded="true" />
                 <element signature="method#queryCities#0;class#ChooseAreaActivity#0" expanded="true" />
                 <element signature="method#queryCounties#0;class#ChooseAreaActivity#0" expanded="true" />
                 <element signature="method#queryFromServer#0;class#ChooseAreaActivity#0" expanded="true" />
-                <element signature="method#onFinish#0;class#5826:7587" expanded="true" />
-                <element signature="e#6552#7106#0" expanded="true" />
-                <element signature="e#7105#7106#0" expanded="true" />
-                <element signature="method#onError#0;class#5826:7587" expanded="true" />
-                <element signature="e#7288#7561#0" expanded="true" />
-                <element signature="e#7560#7561#0" expanded="true" />
+                <element signature="method#onFinish#0;class#6099:7860" expanded="true" />
+                <element signature="e#6825#7379#0" expanded="true" />
+                <element signature="e#7378#7379#0" expanded="true" />
+                <element signature="method#onError#0;class#6099:7860" expanded="true" />
+                <element signature="e#7561#7834#0" expanded="true" />
+                <element signature="e#7833#7834#0" expanded="true" />
                 <element signature="method#showProgressDialog#0;class#ChooseAreaActivity#0" expanded="true" />
                 <element signature="method#closeProgressDialog#0;class#ChooseAreaActivity#0" expanded="true" />
-                <element signature="method#onBackPressed#0;class#ChooseAreaActivity#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="weather_layout.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/weather_layout.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.777778">
+              <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1703,9 +1716,9 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/choose_area.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/coolweather/app/util/HttpUtil.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/coolweather/app/model/CoolWeatherDB.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/weather_layout.xml" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/coolweather/app/util/Utility.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/weather_layout.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/coolweather/app/activity/WeatherActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/coolweather/app/activity/ChooseAreaActivity.java" />
       </list>
@@ -1894,6 +1907,62 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoolWeather" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoolWeather" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoolWeather" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoolWeather" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -1949,6 +2018,11 @@
     <property name="FullScreen" value="false" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="4df16e8441b15f1b" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="4.2_tablet" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AndroidStudio\DocumentsOfWork\CoolWeather\app\src\main\res\drawable" />
+    </key>
   </component>
   <component name="RunManager" selected="Android Application.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -2123,7 +2197,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2237,21 +2311,21 @@
           <caret line="91" column="53" selection-start-line="91" selection-start-column="53" selection-end-line="91" selection-end-column="53" />
           <folding>
             <element signature="docComment;class#ChooseAreaActivity#0" expanded="false" />
-            <element signature="e#2629#3499#0" expanded="true" />
-            <element signature="e#3498#3499#0" expanded="true" />
+            <element signature="method#onCreate#0;class#ChooseAreaActivity#0" expanded="true" />
+            <element signature="e#2902#3772#0" expanded="true" />
+            <element signature="e#3771#3772#0" expanded="true" />
             <element signature="method#queryProvinces#0;class#ChooseAreaActivity#0" expanded="true" />
             <element signature="method#queryCities#0;class#ChooseAreaActivity#0" expanded="true" />
             <element signature="method#queryCounties#0;class#ChooseAreaActivity#0" expanded="true" />
             <element signature="method#queryFromServer#0;class#ChooseAreaActivity#0" expanded="true" />
-            <element signature="method#onFinish#0;class#5826:7587" expanded="true" />
-            <element signature="e#6552#7106#0" expanded="true" />
-            <element signature="e#7105#7106#0" expanded="true" />
-            <element signature="method#onError#0;class#5826:7587" expanded="true" />
-            <element signature="e#7288#7561#0" expanded="true" />
-            <element signature="e#7560#7561#0" expanded="true" />
+            <element signature="method#onFinish#0;class#6099:7860" expanded="true" />
+            <element signature="e#6825#7379#0" expanded="true" />
+            <element signature="e#7378#7379#0" expanded="true" />
+            <element signature="method#onError#0;class#6099:7860" expanded="true" />
+            <element signature="e#7561#7834#0" expanded="true" />
+            <element signature="e#7833#7834#0" expanded="true" />
             <element signature="method#showProgressDialog#0;class#ChooseAreaActivity#0" expanded="true" />
             <element signature="method#closeProgressDialog#0;class#ChooseAreaActivity#0" expanded="true" />
-            <element signature="method#onBackPressed#0;class#ChooseAreaActivity#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2362,17 +2436,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/weather_layout.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.1542752">
-          <caret line="100" column="43" selection-start-line="100" selection-start-column="43" selection-end-line="100" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/app/util/HttpUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2409,22 +2472,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/weather_layout.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.777778">
+          <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/app/activity/WeatherActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="128" column="5" selection-start-line="128" selection-start-column="5" selection-end-line="128" selection-end-column="5" />
+          <caret line="108" column="22" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="22" />
           <folding>
             <element signature="docComment;class#WeatherActivity#0" expanded="false" />
             <element signature="method#onCreate#0;class#WeatherActivity#0" expanded="true" />
             <element signature="method#queryWeatherCode#0;class#WeatherActivity#0" expanded="true" />
             <element signature="method#queryWeatherInfo#0;class#WeatherActivity#0" expanded="true" />
             <element signature="method#queryFromServer#0;class#WeatherActivity#0" expanded="true" />
-            <element signature="method#onFinish#0;class#2841:4125" expanded="true" />
-            <element signature="e#3600#3785#0" expanded="true" />
-            <element signature="e#3784#3785#0" expanded="true" />
-            <element signature="method#onError#0;class#2841:4125" expanded="true" />
-            <element signature="e#3920#4099#0" expanded="true" />
-            <element signature="e#4098#4099#0" expanded="true" />
+            <element signature="method#onFinish#0;class#4091:5375" expanded="true" />
+            <element signature="e#4850#5035#0" expanded="true" />
+            <element signature="e#5034#5035#0" expanded="true" />
+            <element signature="method#onError#0;class#4091:5375" expanded="true" />
+            <element signature="e#5170#5349#0" expanded="true" />
+            <element signature="e#5348#5349#0" expanded="true" />
             <element signature="method#showWeather#0;class#WeatherActivity#0" expanded="true" />
           </folding>
         </state>
@@ -2432,25 +2506,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/app/activity/ChooseAreaActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.5380531">
-          <caret line="83" column="61" selection-start-line="83" selection-start-column="61" selection-end-line="83" selection-end-column="61" />
+        <state vertical-scroll-proportion="6.2123895">
+          <caret line="254" column="29" selection-start-line="254" selection-start-column="29" selection-end-line="254" selection-end-column="29" />
           <folding>
             <element signature="docComment;class#ChooseAreaActivity#0" expanded="false" />
-            <element signature="e#2629#3499#0" expanded="true" />
-            <element signature="e#3498#3499#0" expanded="true" />
+            <element signature="method#onCreate#0;class#ChooseAreaActivity#0" expanded="true" />
+            <element signature="e#2902#3772#0" expanded="true" />
+            <element signature="e#3771#3772#0" expanded="true" />
             <element signature="method#queryProvinces#0;class#ChooseAreaActivity#0" expanded="true" />
             <element signature="method#queryCities#0;class#ChooseAreaActivity#0" expanded="true" />
             <element signature="method#queryCounties#0;class#ChooseAreaActivity#0" expanded="true" />
             <element signature="method#queryFromServer#0;class#ChooseAreaActivity#0" expanded="true" />
-            <element signature="method#onFinish#0;class#5826:7587" expanded="true" />
-            <element signature="e#6552#7106#0" expanded="true" />
-            <element signature="e#7105#7106#0" expanded="true" />
-            <element signature="method#onError#0;class#5826:7587" expanded="true" />
-            <element signature="e#7288#7561#0" expanded="true" />
-            <element signature="e#7560#7561#0" expanded="true" />
+            <element signature="method#onFinish#0;class#6099:7860" expanded="true" />
+            <element signature="e#6825#7379#0" expanded="true" />
+            <element signature="e#7378#7379#0" expanded="true" />
+            <element signature="method#onError#0;class#6099:7860" expanded="true" />
+            <element signature="e#7561#7834#0" expanded="true" />
+            <element signature="e#7833#7834#0" expanded="true" />
             <element signature="method#showProgressDialog#0;class#ChooseAreaActivity#0" expanded="true" />
             <element signature="method#closeProgressDialog#0;class#ChooseAreaActivity#0" expanded="true" />
-            <element signature="method#onBackPressed#0;class#ChooseAreaActivity#0" expanded="true" />
           </folding>
         </state>
       </provider>
