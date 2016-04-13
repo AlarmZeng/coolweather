@@ -50,27 +50,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CoolWeatherDB.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/app/model/CoolWeatherDB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="57" column="48" selection-start-line="57" selection-start-column="48" selection-end-line="57" selection-end-column="48" />
-              <folding>
-                <element signature="docComment;class#CoolWeatherDB#0" expanded="false" />
-                <element signature="method#CoolWeatherDB#0;class#CoolWeatherDB#0" expanded="true" />
-                <element signature="method#getInstance#0;class#CoolWeatherDB#0" expanded="true" />
-                <element signature="method#loadProvinces#0;class#CoolWeatherDB#0" expanded="true" />
-                <element signature="e#1611#1621#0" expanded="true" />
-                <element signature="method#saveCity#0;class#CoolWeatherDB#0" expanded="true" />
-                <element signature="method#loadCities#0;class#CoolWeatherDB#0" expanded="true" />
-                <element signature="method#saveCounty#0;class#CoolWeatherDB#0" expanded="true" />
-                <element signature="method#loadCounties#0;class#CoolWeatherDB#0" expanded="true" />
-                <element signature="e#4054#4062#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="HttpUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/app/util/HttpUtil.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -124,13 +103,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="62" selection-start-line="29" selection-start-column="62" selection-end-line="29" selection-end-column="62" />
+            <state vertical-scroll-proportion="0.3699115">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
               <folding>
-                <element signature="e#531#549#0" expanded="true" />
+                <element signature="e#321#339#0" expanded="true" />
+                <element signature="e#524#542#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -182,12 +162,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AutoUpdateReceiver.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AutoUpdateReceiver.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/app/receiver/AutoUpdateReceiver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40353984">
-              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="method#onReceive#0;class#AutoUpdateReceiver#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1761,9 +1743,10 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/weather_layout.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/coolweather/app/activity/ChooseAreaActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/coolweather/app/service/AutoUpdateService.java" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/coolweather/app/activity/WeatherActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/coolweather/app/receiver/AutoUpdateReceiver.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
       </list>
     </option>
   </component>
@@ -1950,6 +1933,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoolWeather" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoolWeather" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -2076,6 +2085,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AndroidStudio\DocumentsOfWork\CoolWeather\app\src\main\res\mipmap-hdpi" />
+      <recent name="E:\AndroidStudio\DocumentsOfWork\CoolWeather\app\src\main\res\drawable-hdpi" />
       <recent name="E:\AndroidStudio\DocumentsOfWork\CoolWeather\app\src\main\res\drawable" />
     </key>
   </component>
@@ -2252,7 +2263,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2267,12 +2278,13 @@
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994923" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994923" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2323,15 +2335,15 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="docComment;class#CoolWeatherDB#0" expanded="false" />
-            <element signature="method#CoolWeatherDB#0;class#CoolWeatherDB#0" expanded="true" />
-            <element signature="method#getInstance#0;class#CoolWeatherDB#0" expanded="true" />
-            <element signature="method#loadProvinces#0;class#CoolWeatherDB#0" expanded="true" />
-            <element signature="e#1611#1621#0" expanded="true" />
-            <element signature="method#saveCity#0;class#CoolWeatherDB#0" expanded="true" />
-            <element signature="method#loadCities#0;class#CoolWeatherDB#0" expanded="true" />
-            <element signature="method#saveCounty#0;class#CoolWeatherDB#0" expanded="true" />
-            <element signature="method#loadCounties#0;class#CoolWeatherDB#0" expanded="true" />
-            <element signature="e#4054#4062#0" expanded="true" />
+            <element signature="method#CoolWeatherDB#0;class#CoolWeatherDB#0" expanded="false" />
+            <element signature="method#getInstance#0;class#CoolWeatherDB#0" expanded="false" />
+            <element signature="method#loadProvinces#0;class#CoolWeatherDB#0" expanded="false" />
+            <element signature="e#1611#1621#0" expanded="false" />
+            <element signature="method#saveCity#0;class#CoolWeatherDB#0" expanded="false" />
+            <element signature="method#loadCities#0;class#CoolWeatherDB#0" expanded="false" />
+            <element signature="method#saveCounty#0;class#CoolWeatherDB#0" expanded="false" />
+            <element signature="method#loadCounties#0;class#CoolWeatherDB#0" expanded="false" />
+            <element signature="e#4054#4062#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2468,15 +2480,15 @@
           <caret line="57" column="48" selection-start-line="57" selection-start-column="48" selection-end-line="57" selection-end-column="48" />
           <folding>
             <element signature="docComment;class#CoolWeatherDB#0" expanded="false" />
-            <element signature="method#CoolWeatherDB#0;class#CoolWeatherDB#0" expanded="true" />
-            <element signature="method#getInstance#0;class#CoolWeatherDB#0" expanded="true" />
-            <element signature="method#loadProvinces#0;class#CoolWeatherDB#0" expanded="true" />
-            <element signature="e#1611#1621#0" expanded="true" />
-            <element signature="method#saveCity#0;class#CoolWeatherDB#0" expanded="true" />
-            <element signature="method#loadCities#0;class#CoolWeatherDB#0" expanded="true" />
-            <element signature="method#saveCounty#0;class#CoolWeatherDB#0" expanded="true" />
-            <element signature="method#loadCounties#0;class#CoolWeatherDB#0" expanded="true" />
-            <element signature="e#4054#4062#0" expanded="true" />
+            <element signature="method#CoolWeatherDB#0;class#CoolWeatherDB#0" expanded="false" />
+            <element signature="method#getInstance#0;class#CoolWeatherDB#0" expanded="false" />
+            <element signature="method#loadProvinces#0;class#CoolWeatherDB#0" expanded="false" />
+            <element signature="e#1611#1621#0" expanded="false" />
+            <element signature="method#saveCity#0;class#CoolWeatherDB#0" expanded="false" />
+            <element signature="method#loadCities#0;class#CoolWeatherDB#0" expanded="false" />
+            <element signature="method#saveCounty#0;class#CoolWeatherDB#0" expanded="false" />
+            <element signature="method#loadCounties#0;class#CoolWeatherDB#0" expanded="false" />
+            <element signature="e#4054#4062#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2555,16 +2567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="62" selection-start-line="29" selection-start-column="62" selection-end-line="29" selection-end-column="62" />
-          <folding>
-            <element signature="e#531#549#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/app/activity/WeatherActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2605,9 +2607,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/coolweather/app/receiver/AutoUpdateReceiver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40353984">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="method#onReceive#0;class#AutoUpdateReceiver#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.035185184">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3699115">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <element signature="e#321#339#0" expanded="true" />
+            <element signature="e#524#542#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
